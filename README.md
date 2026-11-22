@@ -4,7 +4,7 @@ Ashanti Reid, 16, lives in Black River, St Elizabeth, with her mother, her grand
 
 She is tutored by Miss Morrison, three evenings a week, from November 2026 to the end of April 2027.
 
-- Study site, with progress: https://baughg.github.io/ashanti.csec.2027.english/
+- Study site, with progress: https://csecgym.github.io/ashanti.csec.2027.english/
 - The series on YouTube: https://www.youtube.com/playlist?list=PLXU28KFyF9wc
 - The complete course on YouTube: https://www.youtube.com/playlist?list=PLRswZPD3igNs
 - The plan: [plan.md](plan.md)

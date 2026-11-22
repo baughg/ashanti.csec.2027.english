@@ -1,0 +1,99 @@
+{
+ "version": 1,
+ "series": {
+  "id": "english",
+  "subject": "CSEC English A",
+  "student": "Ashanti Reid",
+  "goal": "Grade I in CSEC English A, May-June 2027",
+  "cover": "https://csecgym.github.io/ashanti.csec.2027.english/assets/cover.jpg",
+  "series_playlist": "https://www.youtube.com/playlist?list=PLXU28KFyF9wc",
+  "course_playlist": "https://www.youtube.com/playlist?list=PLRswZPD3igNs"
+ },
+ "episodes": [
+  {
+   "n": 1,
+   "week": 1,
+   "session": 1,
+   "date": "Mon 23 Nov 2026",
+   "title": "Meet Ashanti",
+   "summary": "Meet Ashanti Reid, a Fifth Form student from Black River, St Elizabeth, whose school year was turned upside down by Hurricane Melissa. In her first session, we set her goal, look at the whole exam, and run a diagnostic test.",
+   "video_id": "LpPQWuEPMVY",
+   "question_sheet": "https://csecgym.github.io/ashanti.csec.2027.english/sheets/ep-01-question-sheet.pdf",
+   "answers": "https://csecgym.github.io/ashanti.csec.2027.english/sheets/ep-01-answers.pdf",
+   "corrections": "https://csecgym.github.io/ashanti.csec.2027.english/sheets/ep-01-corrections.pdf",
+   "lessons": [
+    {
+     "n": 47,
+     "title": "Exam Strategy: Paper 01 and Paper 02",
+     "video_id": "6upCqBMyGkY",
+     "why": "Sets up the next session, The Diagnosis and the Plan (Wed 25 Nov 2026)."
+    }
+   ],
+   "homework": [
+    "Watch Lesson 47: Exam Strategy: Paper 01 and Paper 02.",
+    "Write down three things about the exam that surprised you."
+   ]
+  },
+  {
+   "n": 2,
+   "week": 1,
+   "session": 2,
+   "date": "Wed 25 Nov 2026",
+   "title": "The Diagnosis and the Plan",
+   "summary": "Ashanti gets her diagnostic results. We find her five weaknesses, with evidence from her own work, and build the 23-week plan that runs to the end of April.",
+   "video_id": "PJJgeCGjyso",
+   "question_sheet": "https://csecgym.github.io/ashanti.csec.2027.english/sheets/ep-02-question-sheet.pdf",
+   "answers": "https://csecgym.github.io/ashanti.csec.2027.english/sheets/ep-02-answers.pdf",
+   "corrections": "https://csecgym.github.io/ashanti.csec.2027.english/sheets/ep-02-corrections.pdf",
+   "lessons": [
+    {
+     "n": 1,
+     "title": "Parts of Speech and Effective Word Choice",
+     "video_id": "OMI8d_jJxCE",
+     "why": "Sets up the next session, Creole, Standard English and Agreement (Fri 27 Nov 2026)."
+    },
+    {
+     "n": 2,
+     "title": "Grammar for Clarity",
+     "video_id": "a15lnRJiDKo",
+     "why": "For grammar and agreement: Learn the 4 agreement rules; check every subject and verb pair."
+    }
+   ],
+   "homework": [
+    "Watch Lesson 1: Parts of Speech and Effective Word Choice, and Lesson 2: Grammar for Clarity.",
+    "In your paragraph, underline every verb and draw an arrow to its subject."
+   ]
+  },
+  {
+   "n": 3,
+   "week": 1,
+   "session": 3,
+   "date": "Fri 27 Nov 2026",
+   "title": "Creole, Standard English and Agreement",
+   "summary": "Ashanti's grammar errors follow a pattern: Jamaican Creole grammar slipping into her exam writing. We learn to switch between Creole and Standard English on purpose, and repair her own hurricane paragraph.",
+   "video_id": "2wSzsNw08m8",
+   "question_sheet": "https://csecgym.github.io/ashanti.csec.2027.english/sheets/ep-03-question-sheet.pdf",
+   "answers": "https://csecgym.github.io/ashanti.csec.2027.english/sheets/ep-03-answers.pdf",
+   "corrections": "https://csecgym.github.io/ashanti.csec.2027.english/sheets/ep-03-corrections.pdf",
+   "lessons": [
+    {
+     "n": 5,
+     "title": "Diction, Register, Standard English and Creole",
+     "video_id": "WGNbV-ItVbY",
+     "why": "For grammar and agreement: Learn the 4 agreement rules; check every subject and verb pair."
+    },
+    {
+     "n": 3,
+     "title": "Punctuation for Meaning",
+     "video_id": "f8YFQAygjp8",
+     "why": "For punctuation: Find each sentence's main verbs; two main clauses need a full stop or a joining word."
+    }
+   ],
+   "homework": [
+    "Watch Lesson 5: Diction, Register, Standard English and Creole.",
+    "Rewrite one River Mouth News post in Standard English. Keep one quotation in Creole, inside quotation marks.",
+    "Check every answer with V, S, T, N: two minutes per answer."
+   ]
+  }
+ ]
+}
