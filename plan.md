@@ -95,7 +95,7 @@ Checkpoints: Week 1: Diagnostic; Week 8: Module 1 check; Week 14: Module 2 check
 ### Week 8 (from 11 Jan 2027): Module 1: Informative
 
 - **Mon 11 Jan 2027: Module 1 Checkpoint.** Timed Module 1 test: 20 items and a summary. Study: practice set in the session.
-- **Wed 13 Jan 2027: Checkpoint Results.** Updated skill profile; adjust the plan. Study: Lesson 18: What Makes Literature: Genres, Form and Structure.
+- **Wed 13 Jan 2027: Checkpoint Results.** Updated skill profile; adjust the plan; SBA check-in: the recovery theme and first portfolio drafts. Study: Lesson 18: What Makes Literature: Genres, Form and Structure.
 - **Fri 15 Jan 2027: Summary Clinic 4.** Literary extracts: a new kind of summary. Study: Lesson 19: Narrative Perspective and Point of View.
 
 ### Week 9 (from 18 Jan 2027): Module 2: Literary
@@ -132,7 +132,7 @@ Checkpoints: Week 1: Diagnostic; Week 8: Module 1 check; Week 14: Module 2 check
 
 - **Mon 22 Feb 2027: Timed Story.** A full 30-mark story under time. Study: practice set in the session.
 - **Wed 24 Feb 2027: Module 2 Checkpoint.** Timed Module 2 test. Study: practice set in the session.
-- **Fri 26 Feb 2027: Checkpoint Results.** Updated skill profile; adjust the plan. Study: Lesson 34: What Is Persuasion? Purpose, Audience and Context.
+- **Fri 26 Feb 2027: Checkpoint Results.** Updated skill profile; adjust the plan; SBA check-in: portfolio pieces and the oral presentation outline. Study: Lesson 34: What Is Persuasion? Purpose, Audience and Context.
 
 ### Week 15 (from 1 Mar 2027): Module 3: Persuasive
 
